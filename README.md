@@ -1,6 +1,6 @@
 # NutriGenius
 
-NutriGenius is an AI-powered mobile application designed to support individuals managing chronic diseases such as diabetes and hypertension. The system provides personalized diet and lifestyle recommendations based on user inputs, leveraging AI models, voice interaction, and contextual retrieval mechanisms. The app is built with cultural relevance and accessibility in mind, particularly tailored for the Pakistani population.
+NutriGenius is an AI-powered mobile application designed to support individuals managing chronic diseases such as diabetes and hypertension. The system provides diet and lifestyle recommendations based on user inputs, leveraging AI models, voice interaction, and contextual retrieval mechanisms. The app is built with cultural relevance and accessibility in mind, particularly tailored for the Pakistani population.
 
 ## Project Overview
 
