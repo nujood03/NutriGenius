@@ -1,0 +1,179 @@
+{
+  "days": [
+    {
+      "day": "Day 1",
+      "type": "Strength Training (Upper Body)",
+      "duration": "45 minutes",
+      "intensity": "Moderate",
+      "exercises": [
+        {
+          "name": "Push-ups",
+          "sets": 3,
+          "reps": 10,
+          "duration": ""
+        },
+        {
+          "name": "Dumbbell Bench Press",
+          "sets": 3,
+          "reps": 12,
+          "duration": ""
+        },
+        {
+          "name": "Overhead Press",
+          "sets": 3,
+          "reps": 10,
+          "duration": ""
+        },
+        {
+          "name": "Dumbbell Rows",
+          "sets": 3,
+          "reps": 12,
+          "duration": ""
+        },
+        {
+          "name": "Bicep Curls",
+          "sets": 3,
+          "reps": 15,
+          "duration": ""
+        },
+        {
+          "name": "Triceps Extensions",
+          "sets": 3,
+          "reps": 15,
+          "duration": ""
+        }
+      ],
+      "caloriesBurned": 300
+    },
+    {
+      "day": "Day 2",
+      "type": "Cardio and Core",
+      "duration": "30 minutes",
+      "intensity": "Moderate",
+      "exercises": [
+        {
+          "name": "Running",
+          "sets": 0,
+          "reps": 0,
+          "duration": "20 minutes"
+        },
+        {
+          "name": "Plank",
+          "sets": 3,
+          "reps": 0,
+          "duration": "30 seconds"
+        },
+        {
+          "name": "Crunches",
+          "sets": 3,
+          "reps": 15,
+          "duration": ""
+        },
+        {
+          "name": "Russian Twists",
+          "sets": 3,
+          "reps": 15,
+          "duration": ""
+        }
+      ],
+      "caloriesBurned": 250
+    },
+    {
+      "day": "Day 3",
+      "type": "Rest",
+      "duration": "",
+      "intensity": "Low",
+      "exercises": [],
+      "caloriesBurned": 50
+    },
+    {
+      "day": "Day 4",
+      "type": "Strength Training (Lower Body)",
+      "duration": "45 minutes",
+      "intensity": "Moderate",
+      "exercises": [
+        {
+          "name": "Squats",
+          "sets": 3,
+          "reps": 12,
+          "duration": ""
+        },
+        {
+          "name": "Lunges",
+          "sets": 3,
+          "reps": 10,
+          "duration": ""
+        },
+        {
+          "name": "Glute Bridges",
+          "sets": 3,
+          "reps": 15,
+          "duration": ""
+        },
+        {
+          "name": "Calf Raises",
+          "sets": 3,
+          "reps": 20,
+          "duration": ""
+        }
+      ],
+      "caloriesBurned": 350
+    },
+    {
+      "day": "Day 5",
+      "type": "Yoga/Flexibility",
+      "duration": "60 minutes",
+      "intensity": "Low",
+      "exercises": [
+        {
+          "name": "Various Yoga Poses",
+          "sets": 0,
+          "reps": 0,
+          "duration": "60 minutes"
+        }
+      ],
+      "caloriesBurned": 150
+    },
+    {
+      "day": "Day 6",
+      "type": "Rest",
+      "duration": "",
+      "intensity": "Low",
+      "exercises": [],
+      "caloriesBurned": 50
+    },
+    {
+      "day": "Day 7",
+      "type": "Full Body Circuit",
+      "duration": "30 minutes",
+      "intensity": "Moderate",
+      "exercises": [
+        {
+          "name": "Burpees",
+          "sets": 3,
+          "reps": 10,
+          "duration": ""
+        },
+        {
+          "name": "Mountain Climbers",
+          "sets": 3,
+          "reps": 20,
+          "duration": ""
+        },
+        {
+          "name": "Jump Squats",
+          "sets": 3,
+          "reps": 10,
+          "duration": ""
+        },
+        {
+          "name": "Push-ups",
+          "sets": 3,
+          "reps": 8,
+          "duration": ""
+        }
+      ],
+      "caloriesBurned": 250
+    }
+  ]
+}

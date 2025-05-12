@@ -1,0 +1,44 @@
+[
+    {
+        "date": "2023-05-22",
+        "food": "Paratha with eggs for breakfast, chicken biryani for lunch, vegetable curry for dinner",
+        "mood": "Energetic",
+        "workout": true
+    },
+    {
+        "date": "2023-05-23",
+        "food": "Oatmeal for breakfast, chicken sandwich for lunch, beef nihari for dinner",
+        "mood": "Tired",
+        "workout": false
+    },
+    {
+        "date": "2023-05-24",
+        "food": "Toast with eggs for breakfast, daal chawal for lunch, chicken karahi for dinner",
+        "mood": "Neutral",
+        "workout": true
+    },
+    {
+        "date": "2023-05-25",
+        "food": "Cereal for breakfast, chapati with aloo for lunch, fish curry for dinner",
+        "mood": "Happy",
+        "workout": true
+    },
+    {
+        "date": "2023-05-26",
+        "food": "Fruit and yogurt for breakfast, chicken roll for lunch, mutton karahi for dinner",
+        "mood": "Tired",
+        "workout": false
+    },
+    {
+        "date": "2023-05-27",
+        "food": "Halwa puri for breakfast, biryani for lunch, chapati with vegetable curry for dinner",
+        "mood": "Energetic",
+        "workout": true
+    },
+    {
+        "date": "2023-05-28",
+        "food": "Omelette with paratha for breakfast, chicken pulao for lunch, seekh kebab for dinner",
+        "mood": "Happy",
+        "workout": true
+    }
+]
